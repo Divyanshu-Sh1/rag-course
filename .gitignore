@@ -1,0 +1,23 @@
+# Conda
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector databases
+vectorstore/
+chroma/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
